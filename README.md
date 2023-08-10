@@ -6,7 +6,7 @@ I'm Wassim Kribaa, a CS student with a passion for developing innovative solutio
 
 ### What I'm working on 🔭
 
-I'm currently working on a project that involves developing a cloud-edge computing continuum applications management dashboard using Semantic web techniques, microservices, Docker, Kubernetes, network slicing, and cloud.
+I'm currently working on a project that involves developing a cloud computing applications management dashboard using Semantic web techniques, microservices, Docker, Kubernetes, and the cloud.
 
 ### What I'm learning 🌱
 
